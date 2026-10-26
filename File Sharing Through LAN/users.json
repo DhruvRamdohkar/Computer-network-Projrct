@@ -1,0 +1,14 @@
+{
+  "users": {
+    "admin": {
+      "salt": "ef4ac7cbce8a6d0e515c165b7f6e47eb",
+      "hash": "f8d612d93076c9ad171bafa0458f7aaecf2f58210c8ef2a0eb60de9cff271490",
+      "iterations": 200000
+    },
+    "student": {
+      "salt": "dd2823cc633147aab8482c9ae4102077",
+      "hash": "fec3ab229346c3e21b1361ab7e10073756450f4493d6e9a14717fbda058077a1",
+      "iterations": 200000
+    }
+  }
+}
